@@ -26,6 +26,19 @@ This is also a completely unstyled, very ugly page!
   next to the main content area.
 
 
+## Test
+
+- Open the page.
+- Click each of the buttons twice.
+- The content area should contain:
+	- Text field
+	- Text field
+	- Image
+	- Image
+	- Button
+	- Button
+
+
 ## Hints
 
 - `is` will be helpful.
