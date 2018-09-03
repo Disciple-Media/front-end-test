@@ -41,7 +41,7 @@ This is also a completely unstyled, very ugly page!
 
 ## Hints
 
-- `is` will be helpful.
+- Vue’s `:is` will be helpful.
 
 
 ## Extra Credit
